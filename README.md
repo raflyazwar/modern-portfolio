@@ -45,7 +45,7 @@
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   https://github.com/raflyazwar/modern-portfolio.git
    ```
 
 2. Install dependencies
