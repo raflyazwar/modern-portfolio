@@ -1,15 +1,15 @@
 # 🎨 Modern Portfolio Website
 
 <div align="center">
-  <img src="#">
+  <img src="">
   
   <p align="center">
     A modern, responsive portfolio website with advanced features
     <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raflyazwar/modern-portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://modern-portfolio-new.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -106,9 +106,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [yourwebsite.dev](https://yourwebsite.dev)
+**Rafly Azwar**
+- GitHub: [@raflyazwar](https://github.com/raflyazwar)
+- Website: [raflyazwar.dev](https://raflyazwar.vercel.app/)
 
 ## 🙏 Acknowledgments
 
@@ -117,16 +117,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Lucide React](https://lucide.dev) for icons
 - [Unsplash](https://unsplash.com) for stock images
 
-## 💖 Support
+## 💖 Support Me
 
-If you find this project helpful, please consider giving it a ⭐️ on GitHub!
+If you appreciate my work and want to support me, you can do so through the following options:
 
-- **BagiBagi**: [Support on BagiBagi](https://bagibagi.co/yourusername)
-- **Saweria**: [Support on Saweria](https://saweria.co/yourusername)
-- **Socialbuzz**: [Support on Socialbuzz](https://sociabuzz.com/yourusername)
+- **BagiBagi**: [Support on BagiBagi](https://bagibagi.co/Raflyazwar)
+- **Saweria**: [Support on Saweria](https://saweria.co/Raflyazwar)
+- **Socialbuzz**: [Support on Socialbuzz](https://sociabuzz.com/raflyazwar)
 
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/raflyazwar">Rafly Azwar</a>
 </div>

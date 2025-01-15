@@ -131,7 +131,7 @@ function App() {
           <div className="max-w-7xl mx-auto">
             <div className="text-center">
               <img
-                src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&h=200"
+                src="https://i.ibb.co.com/M2NRG46/profile.jpg"
                 alt="Profile"
                 className="w-32 h-32 rounded-full mx-auto mb-8 border-4 border-indigo-600 dark:border-indigo-400"
               />
